@@ -3,13 +3,13 @@ Machine Learning
 This data set is an active Kaggle Competition in which the sale price of house has to be predicted by using all the features given.
 
 ## Dataset Description
-	•	train.csv - the training set
-	•	test.csv - the test set
-	•	data_description.txt - full description of each column,
-	•	sample_submission.csv 
-The data set contains two files test and train
-Train file is of the shape 80 X 1460 excluding the ID column
-Test file is of the shape 79 X 1459 ( Does not contain Sale price column which needs to be predicted)
+	train.csv - the training set
+	test.csv - the test set
+	data_description.txt - full description of each column
+	sample_submission.csv 
+The data set contains two files test and train\
+Train file is of the shape 80 X 1460 excluding the ID column\
+Test file is of the shape 79 X 1459 ( Does not contain Sale price column which needs to be predicted).
 
 
 ## Link to the competition
@@ -24,12 +24,12 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 4) The evaluation of the dataset is based on RMSE ( root mean squared error) 
 
 
-Results 	     Accuracy
+### Results ( Accuracy)
 
-Linear Regression : 81
-Random Forests    : 90
-Decision Tree     : 83
-XG Boost          : 91
+Linear Regression : 0.81 \
+Random Forests    : 0.90 \
+Decision Tree     : 0.83\
+XG Boost          : 0.91
 
 ## Kaggle leaderboard positions
 1) 2019
