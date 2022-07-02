@@ -26,9 +26,9 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
 ### Results ( Accuracy)
 
-Linear Regression : 0.81 \
+Linear Regression : 0.83 \
 Random Forests    : 0.90 \
-Decision Tree     : 0.83\
+Decision Tree     : 0.81\
 XG Boost          : 0.91
 
 ## Kaggle leaderboard positions
