@@ -9,7 +9,7 @@ This data set is an active [Kaggle Competition](https://www.kaggle.com/competiti
 	data_description.txt - full description of each column
 	sample_submission.csv 
 The data set contains two files test and train\
-Train file is of the shape 1460 X 81 
+Train file is of the shape 1460 X 81\
 Test file is of the shape 1459 X 80 ( Does not contain Sale price column which needs to be predicted).
 
 
