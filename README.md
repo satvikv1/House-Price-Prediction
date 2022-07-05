@@ -30,9 +30,9 @@ Test file is of the shape 1459 X 80 ( Does not contain Sale price column which n
 
 ## Results 
 
-|  ML Algorithims   |  Accuracy |
+|  ML Algorithims   |  r2 score |
 | ----------------- | --------- |
-| Linear Regression |  83.7     |
-| Random Forests    |  90.4 	| 
-| Decision Trees    |  81.8	|
-|    XGB Boost      |  92.2	|
+| Linear Regression |  0.83     |
+| Random Forests    |  0.90 	| 
+| Decision Trees    |  0.81	|
+|    XGB Boost      |  0.92	|
